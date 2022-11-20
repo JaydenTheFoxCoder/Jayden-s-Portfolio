@@ -1,0 +1,36 @@
+.line{
+    background-color:plum;
+    width: 80px;
+    height: 6px;
+    margin: 8px auto;
+}
+body{
+    text-align:center;
+    background-image: url("bubble.gif");
+    font-family: cursive;
+    color:antiquewhite;
+font-size: 30px;
+}
+#myCarousel img{
+    margin-top: 35px;
+    height:300px;
+    border: 5px ridge;
+    border-radius:15px;;
+
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color:aqua
+
+}
+
+#games,#chatbots,#app{
+    color:whitesmoke;
+    font-family:Cursive;
+
+}
+#myCarousel{
+    background-color: crimson;
+    font-family: cursive;
+    font-size: 22px;
+}
